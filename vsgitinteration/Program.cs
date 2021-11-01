@@ -8,6 +8,7 @@ namespace vsgitinteration
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("varsha");
+            Console.ReadLine();
         }
     }
 }
