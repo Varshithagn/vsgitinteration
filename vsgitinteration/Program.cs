@@ -9,6 +9,7 @@ namespace vsgitinteration
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello!");
             Console.WriteLine("varsha");
+            Console.WriteLine("from git");
             Console.WriteLine("from vs ");
             Console.ReadLine();
         }
