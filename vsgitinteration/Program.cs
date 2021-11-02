@@ -13,7 +13,7 @@ namespace vsgitinteration
             Console.ReadLine()
             Console.WriteLine("from githubb");
             Console.WriteLine("from gitttt");
-            Console.ReadLine()
+           
         }
     }
 }
