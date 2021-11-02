@@ -10,7 +10,7 @@ namespace vsgitinteration
             Console.WriteLine("Hello!");
             Console.WriteLine("varsha");
             Console.WriteLine("from git");
-            Console.ReadLine()
+            Console.ReadLine();
             Console.WriteLine("from githubb");
             Console.WriteLine("from gitttt");
            
